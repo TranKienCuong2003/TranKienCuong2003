@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-Hello! My name is Trần Kiên Cường, born on April 12, 2004. I am currently a third-year student at Bắc Hà International University, where I am majoring in Information Technology. My passion lies in web development, and I am dedicated to honing my skills to become a proficient Front-end Developer.
+Hello! My full name is Trần Kiên Cường
 
 Throughout my academic journey, I have been actively involved in various projects that allow me to apply my coding skills in real-world scenarios. I enjoy working with technologies like HTML, CSS and JavaScript, constantly pushing myself to learn new frameworks and tools that enhance my ability to build dynamic and user-friendly websites.
 
