@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-Hello! My full name is Trần Kiên Cường
+Hello! My full name is Tran Kien Cuong
 
 Throughout my academic journey, I have been actively involved in various projects that allow me to apply my coding skills in real-world scenarios. I enjoy working with technologies like HTML, CSS and JavaScript, constantly pushing myself to learn new frameworks and tools that enhance my ability to build dynamic and user-friendly websites.
 
